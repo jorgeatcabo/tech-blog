@@ -1,0 +1,175 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f5faf7;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: #63bce6;
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #021118;
+}
+
+
+
+header {
+  margin-top: 50px;
+}
+
+main {
+  margin: 20px auto;
+  width: 94%;
+}
+
+
+p {
+  font-size: 1.2rem;
+}
+
+input {
+    width: 100%;
+    margin: 0 0 5px;
+    padding: 10px;
+}
+
+.title {
+  font-size: 3rem;
+  background-color: #0c1311;
+  color:#978c89;
+  padding: 0 10px;
+  text-align:center;
+  margin: 0 auto;
+  
+}
+
+
+
+.btn {
+  padding: 6px 5px;
+  width: 100%;
+  display: block;
+  margin: 10px 0;
+  color: #0c1311;
+  background-color: #57bfe9;
+}
+
+.li {
+  display: inline;
+}
+
+.navbar {
+  width: 100%;
+  position: fixed;
+  background-color: #63bce6;
+  text-align:center;
+}
+
+.nav-item {
+  margin: 0 20px;
+}
+
+.nav-item a {
+  color: #0c1311;
+}
+
+
+.title a {
+  color: #63bce6;
+}
+
+
+.item {
+  margin-bottom: 10px;
+  padding: 1.5%;
+  background-color: #57bfe9;
+  color: #0c1311;
+}
+
+
+.flex-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.justify-space-between {
+  justify-content: space-between;
+}
+
+.justify-space-around {
+  justify-content: space-around;
+}
+
+.justify-flex-start {
+  justify-content: flex-start;
+}
+
+.justify-flex-end {
+  justify-content: flex-end;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-stretch {
+  align-items: stretch;
+}
+
+.align-end {
+  align-items: flex-end;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.col-auto {
+  flex-grow: 1;
+}
+
+
+.form-label {
+  font-size: 1.1rem;
+  margin: 0 0 0 5px;
+}
+
+.card {
+  margin: 0 0 20px 0;
+  border: 3px solid #030111;
+}
+
+.card-header {
+  background-color: #57bfe9;
+  padding: 1%;
+}
+
+.card-body {
+  padding: 1%;
+}
+
+
+.input {
+  width: 100%;
+  padding: 1%;
+  margin: 5px 0;
+  border: 2px solid #d6c4bf;
+}
+
