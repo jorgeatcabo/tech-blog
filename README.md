@@ -45,4 +45,4 @@ san_lucas2005@yahoo.com
 MIT
 
 ----
-![ScreenShot](.\public\images\tech-blog-screenshot.PNG)
+![ScreenShot](./public/images/tech-blog-screenshot.PNG)
