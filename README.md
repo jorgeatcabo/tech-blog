@@ -34,7 +34,7 @@ the title and contents of the post are saved and it is taken back to an updated 
 It is necessary to know the basics of Model-View-Controller paradigm, express-handlebars, MySQL2, Sequelize, dotenv package, bcrypt package, express-session and connect-session-sequelize packages to add authentication. You can contribute reporting bugs, suggesting enhacements, pull requests. Best practices for class/id naming conventions, indentation, quality comments, etc.
 
 # Test
-For local testing use: "git clone git@github.com:jorgeatcabo/tech-blog.git" and “npm install”. For testing on a deployment URL use: https:///
+For local testing use: "git clone git@github.com:jorgeatcabo/tech-blog.git" and “npm install”. For testing on a deployment URL use: https://salty-taiga-28543.herokuapp.com/
 
 # Questions
 https://github.com/jorgeatcabo
